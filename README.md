@@ -1,8 +1,8 @@
-![logo](https://github.com/MMuzammil6880/MMuzammil6880/blob/main/banner.png)
+<img align="center" src="https://github.com/MMuzammil6880/MMuzammil6880/blob/main/banner1.jpg" >
 <h1 align="center">Hi 👋, I'm Muhammad Muzammil</h1>
 <h3 align="center">A passionate DevOps Engineer from Pakistan</h3>
 
-<img align="right" alt="aws work flow" widht="300" height="300" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="aws work flow" widht="250" height="250" src="https://i.pinimg.com/originals/88/e5/a4/88e5a4a52f0d7725c5e56364422b79fc.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mmuzammil6880&label=Profile%20views&color=0e75b6&style=flat" alt="mmuzammil6880" /> </p>
 
