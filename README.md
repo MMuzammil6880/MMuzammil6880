@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mmuzammil6880&label=Profile%20views&color=0e75b6&style=flat" alt="mmuzammil6880" /> </p>
 
-- 🌱 I’m currently learning **DevOps, AWS**
+- 🌱 I’m currently working as a **Trainee Cloud Engineer, GCP**
 
 - 👨‍💻 All of my projects are available at [https://mmds-portfolio.netlify.app/](https://mmds-portfolio.netlify.app/)
 
