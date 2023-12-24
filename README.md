@@ -10,11 +10,11 @@
 
 - 👨‍💻 All of my projects are available at [https://mmds-portfolio.netlify.app/](https://mmds-portfolio.netlify.app/)
 
-- 💬 Ask me about **DevOps, AWS, Linux, Docker, Jenkins**
+- 💬 Ask me about **DevOps, GCP, AWS, Linux, Docker, Jenkins**
 
-- 📫 How to reach me **muhammadmuzammil6880@gmail.com**
+- 📫 How to reach me **mmuzammil6880@gmail.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/muhammadmuzammil6880](www.linkedin.com/in/muhammadmuzammil6880)
+- 📄 Know about my experiences [www.linkedin.com/in/mmuzammil6880](www.linkedin.com/in/muhammadmuzammil6880)
 
 - ⚡ Fun fact **I myself be a good Company 😎😇**
 
