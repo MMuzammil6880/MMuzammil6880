@@ -6,13 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mmuzammil6880&label=Profile%20views&color=0e75b6&style=flat" alt="mmuzammil6880" /> </p>
 
-- 🌱 I’m currently working as a **Junior DevOps Engineer**
-
-- 👨‍💻 All of my projects are available at [https://mmds-portfolio.netlify.app/](https://mmds-portfolio.netlify.app/)
+- 👨‍💻 I’m currently working as a **Junior DevOps Engineer**
 
 - 💬 Ask me about **DevOps, AWS, Linux, Docker, Terraform, Ansible, CICD, Grafana, Jenkins**
 
-- 📫 How to reach me **mmuzammil6880@gmail.com**
+- 📫 How to reach me **mmuzammil.tech@gmail.com**
 
 - 📄 Know about my experiences [www.linkedin.com/in/mmuzammil6880](www.linkedin.com/in/muhammadmuzammil6880)
 
